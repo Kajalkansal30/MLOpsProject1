@@ -3,4 +3,4 @@ PCUhfedvdCX2541K
 
 pip list
 
-mongodb+srv://kansalkajal30:<db_password>@cluster0.lcvoj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://kansalkajal30:PCUhfedvdCX2541K@cluster0.lcvoj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
