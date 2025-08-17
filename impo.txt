@@ -1,5 +1,8 @@
 kansalkajal30
 PCUhfedvdCX2541K
+vehicle\Scripts\activate
+set: $env:MONGODB_URL = "mongodb+srv://kansalkajal30:PCUhfedvdCX2541K@cluster0.lcvoj3g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+check: echo $env:MONGODB_URL
 
 pip list
 
