@@ -1,0 +1,51 @@
+[ 2025-08-17 12:50:14,402 ] asyncio - DEBUG - Using proactor: IocpProactor
+[ 2025-08-17 12:52:05,649 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,650 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[0:6]
+[ 2025-08-17 12:52:05,650 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[7:8]
+[ 2025-08-17 12:52:05,651 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,651 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,653 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[9:12]
+[ 2025-08-17 12:52:05,653 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[13:15]
+[ 2025-08-17 12:52:05,653 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,654 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,654 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[16:31]
+[ 2025-08-17 12:52:05,654 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[32:33]
+[ 2025-08-17 12:52:05,655 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,655 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,655 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[34:45]
+[ 2025-08-17 12:52:05,655 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[46:47]
+[ 2025-08-17 12:52:05,656 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,656 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,657 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[48:66]
+[ 2025-08-17 12:52:05,657 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[67:68]
+[ 2025-08-17 12:52:05,657 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,658 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,658 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[69:83]
+[ 2025-08-17 12:52:05,658 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[84:89]
+[ 2025-08-17 12:52:05,659 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,659 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,660 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[90:110]
+[ 2025-08-17 12:52:05,660 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[111:114]
+[ 2025-08-17 12:52:05,660 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,660 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,661 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[115:122]
+[ 2025-08-17 12:52:05,661 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[123:126]
+[ 2025-08-17 12:52:05,661 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,662 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,662 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[127:148]
+[ 2025-08-17 12:52:05,663 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[149:150]
+[ 2025-08-17 12:52:05,664 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,664 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[151:173]
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[174:175]
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[176:194]
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[195:196]
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-08-17 12:52:05,665 ] python_multipart.multipart - DEBUG - Calling on_end with no data
+[ 2025-08-17 12:52:05,665 ] root - INFO - Entered get_usvisa_data_as_dict method as VehicleData class
+[ 2025-08-17 12:52:05,665 ] root - INFO - Created vehicle data dict
+[ 2025-08-17 12:52:05,665 ] root - INFO - Exited get_vehicle_data_as_dict method as VehicleData class
+[ 2025-08-17 12:52:05,665 ] root - INFO - Entered predict method of VehicleDataClassifier class
+[ 2025-08-17 12:52:05,665 ] root - ERROR - Error occurred in python script: [C:\Users\kansa\OneDrive\Desktop\MLOps\MLOpsProject1\src\pipline\prediction_pipeline.py] at line number [101]: Environment variable: AWS_ACCESS_KEY_ID is not not set.
